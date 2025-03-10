@@ -4,11 +4,13 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=F7971D&center=true&lines=Game+Designer;Full-stack+Developer">
 </p>
 
+<!--
 <br>
 <div align="center">
   <img src=http://mazassumnida.wtf/api/v2/generate_badge?boj=o0o3610 (https://solved.ac/o0o3610/)>
 </div>
 <br>
+-->
 
 
 <h3 align="center">🪄 Tech Stack 🪄</h3>
