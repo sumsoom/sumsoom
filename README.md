@@ -1,6 +1,8 @@
-<div align="center">
-<img src=https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=300&section=header&text=Welcome%20sumsoom's%20Github&fontSize=50>
-</div>
+<h1 align="center"> Jung Su Min </h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F7971D&center=true&lines=Full-stack+Developer">
+</p>
 
 <br>
 <div align="center">
