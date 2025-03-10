@@ -1,7 +1,7 @@
 <h1 align="center"> Jung Su Min </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F7971D&center=true&lines=Full-stack+Developer">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F7971D&center=true&lines=Game+Designer;Full-stack+Developer">
 </p>
 
 <br>
