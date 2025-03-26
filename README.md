@@ -1,4 +1,5 @@
 <h1 align="center"> Jung Su Min </h1>
+
 <!--
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=F7971D&center=true&lines=Game+Designer;Full-stack+Developer">
@@ -11,6 +12,12 @@
 </div>
 <br>
 -->
+
+<h3 align="center">🎓 Education 🎓</h3>
+<div align="center">
+  <p><strong>고려대학교 (Korea University)</strong><br>
+  바이오시스템의과학부 & 소프트웨어기술벤처융합전공 (2021.03~2025.08)</p>
+</div>
 
 
 <h3 align="center">🪄 Tech Stack 🪄</h3>
