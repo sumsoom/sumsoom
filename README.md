@@ -54,7 +54,7 @@
 <h3 align="center">📩 Contact 📩</h3>
 <div align="center">
   <a href="o0o3610@korea.ac.kr">
-    <img src="https://img.shields.io/badge/11semo235@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+    <img src="https://img.shields.io/badge/o0o3610@korea.ac.kr-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
 </div>
 
