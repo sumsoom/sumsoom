@@ -1,9 +1,9 @@
 <h1 align="center"> Jung Su Min </h1>
-
+<!--
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=F7971D&center=true&lines=Game+Designer;Full-stack+Developer">
 </p>
-
+-->
 <!--
 <br>
 <div align="center">
@@ -53,7 +53,7 @@
 
 <h3 align="center">📩 Contact 📩</h3>
 <div align="center">
-  <a href="11semo235@gmail.com">
+  <a href="o0o3610@korea.ac.kr">
     <img src="https://img.shields.io/badge/11semo235@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
 </div>
